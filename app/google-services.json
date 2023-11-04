@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89550423970",
+    "firebase_url": "https://train-revervation.firebaseio.com",
+    "project_id": "train-revervation",
+    "storage_bucket": "train-revervation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89550423970:android:3507598e124313811bd4fb",
+        "android_client_info": {
+          "package_name": "com.guerrazzi.trainreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89550423970-f9dvtof1n1pupide3rlgs2ekc1hm948h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDRglxZIIQsqCOojmgYOmQDYCmsEiVWLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89550423970-f9dvtof1n1pupide3rlgs2ekc1hm948h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
